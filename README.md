@@ -1,10 +1,13 @@
-Batch utility for resetting Windows proxy configurations across private network environments.
+# Proxy Configuration Reset
 
-Features
-Disable proxy usage
-Remote execution support
-Windows environment automation
-Technologies
-Windows Batch
-CMD
-Windows Registry
+Windows utility for resetting proxy settings across Windows environments.
+
+## Features
+- Disables Windows proxy configuration
+- Supports administrative troubleshooting
+- Useful for enterprise proxy management
+
+## Technologies
+- Windows Batch
+- CMD
+- Windows Registry
